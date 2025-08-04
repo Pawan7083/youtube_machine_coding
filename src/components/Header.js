@@ -12,10 +12,10 @@ const Header = ()=>{
                 <input className="border border-gray-400 text-xl w-2/3 p-2 pl-4 rounded-l-3xl" type="text" ></input>
                 <button className="border border-gray-400 px-8 border-l-0 py-2 text-xl rounded-r-3xl hover:bg-gray-200"><i className="fa-solid fa-magnifying-glass"></i></button>    
             </div>
-            <div className="col-span-1 ">
-                <div className="p-2  -mr-12 ">
-                    <span className="border border-gray-400 px-4 py-2 mr-4 rounded-2xl"> <i className="fa-solid fa-plus text"></i> Create</span>
-                <i class="fa-solid fa-bell mr-4 text-3xl"></i>
+            <div className="col-span-1">
+                <div className="p-2   text-center">
+                    <span className="border border-gray-400 px-4 py-2 rounded-2xl"> <i className="fa-solid fa-plus text"></i> Create</span>
+                <i class="fa-solid fa-bell mx-4 text-3xl"></i>
                 <i class="fa-solid fa-circle-user text-3xl"></i>
                 </div>
             </div>
