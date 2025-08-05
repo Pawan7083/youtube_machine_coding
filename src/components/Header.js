@@ -15,8 +15,8 @@ const Header = ()=>{
             <div className="col-span-1">
                 <div className="p-2   text-center">
                     <span className="border border-gray-400 px-4 py-2 rounded-2xl"> <i className="fa-solid fa-plus text"></i> Create</span>
-                <i class="fa-solid fa-bell mx-4 text-3xl"></i>
-                <i class="fa-solid fa-circle-user text-3xl"></i>
+                <i className="fa-solid fa-bell mx-4 text-3xl"></i>
+                <i className="fa-solid fa-circle-user text-3xl"></i>
                 </div>
             </div>
             
