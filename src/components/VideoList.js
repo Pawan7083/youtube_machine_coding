@@ -17,7 +17,7 @@ const VideoList = ()=>{
         const {items}= jsonDataPromise;
         setVideo(items);
         // console.log(jsonData);
-        console.log(items)
+        // console.log(items)
     }
     
 
